@@ -142,6 +142,22 @@ Senior L&D Manager | Finance & Analytics Professional | Bengaluru
 - GitHub: [github.com/Sendhil0kumar](https://github.com/Sendhil0kumar)
 - LinkedIn: [linkedin.com/in/sendhil0kumar](https://linkedin.com/in/sendhil0kumar)
 
+## Project Visualisations
+
+### Section 1 — India Banking Fraud Trends
+![India Banking Fraud Cases](https://raw.githubusercontent.com/Sendhil0kumar/india-banking-fraud-intelligence/main/Indian%20Banking%20Fraud%20cases.png)
+
+### Section 1 — Fraud Type Distribution
+![India Banking Fraud Types](https://raw.githubusercontent.com/Sendhil0kumar/india-banking-fraud-intelligence/main/Indian%20Banking%20Fraud%20type.png)
+
+### Section 2 — Ponzi Detection Model
+![Ponzi Detection Model](https://raw.githubusercontent.com/Sendhil0kumar/india-banking-fraud-intelligence/main/Ponzi%20Detection%20model.png)
+
+### Section 3 — Transaction Risk Analysis
+![Transaction Risk Analysis](https://raw.githubusercontent.com/Sendhil0kumar/india-banking-fraud-intelligence/main/Transaction%20risk%20analysis.png)
+
+### Section 4 — Regulatory Compliance Audit
+![Regulatory Compliance](https://raw.githubusercontent.com/Sendhil0kumar/india-banking-fraud-intelligence/main/Regulatory%20Compliance.png)
 ---
 
 *If you found this project useful, please give it a star!*
